@@ -1,6 +1,6 @@
 # This R script is created as a Shiny application based on processed data from OPEKEPE's announcements 
 # about Agricultural Development, Fisheries, Direct Payments and Market Measures.
-# The code is available under MIT license, as stipulated in https://github.com/iliastsergoulas/shinyapps/blob/master/LICENSE.
+# The code is available under MIT license, as stipulated in https://github.com/iliastsergoulas/agri_subsidies/blob/master/LICENSE..
 # Author: Ilias Tsergoulas, Website: www.agristats.eu
 
 library(shiny)
